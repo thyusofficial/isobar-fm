@@ -1,5 +1,5 @@
 <h3 align="center">
-  Teste para Front-end Developer na IWS
+  Front-end Developer test for IWS
 </h3>
 
 <p align="center">
@@ -8,9 +8,9 @@
   </a>
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Tecnologias e ferramentas utilizadas
+Technologies and tools used 
 
 - [ReactJs](https://reactjs.org/)
 - [React Router DOM](https://reactrouter.com/)
@@ -23,26 +23,24 @@ Tecnologias e ferramentas utilizadas
 - [Prettier](https://prettier.io/)
 - [EditorConfig](https://editorconfig.org/)
 
-## 💻 Começando
+## 💻 Starting
 
-### Requerimentos
+### Requirements
 
 
 ```bash
-# Clone este projeto e acesse a pasta
+# Clone this projetct and access the page
 $ git clone https://github.com/thyusofficial/isobar-fm 
 $ cd isobar-fm
 ```
-
 ```bash
-# Instalar dependências
+# Install the dependencies
 $ yarn
 
-
-# Iniciar o cliente
+# Start the client
 $ yarn start
 
-# Muito bem, o projeto deve estar rodando em http://localhost:3000
+# Very well, the project must be running on http://localhost:3000
 ```
 
 ---
